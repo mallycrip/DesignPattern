@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Interface i = 
+        Car bmw = CarFactory.getCar(1);
     }
 }
