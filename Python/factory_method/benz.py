@@ -3,7 +3,7 @@ from car import Car
 
 class Benz(Car):
     def __init__(self):
-        self.name = "Benz"
+        self._name = "Benz"
 
     def getName(self):
-        return self.name
+        return self._name
