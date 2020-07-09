@@ -9,12 +9,12 @@
 구체적인 클래스에 의존하지 않고 서로 연관 되거나 의존적인 객체들의 조합을 만드는 인터페이스를 제공하는 패턴<br/>
 [Abstract Factory](https://github.com/mallycrip/DesignPattern/blob/master/Abstract_Factory.md)<br/>
 [Abstract Factory in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/AbstactFactory/src)<br/>
-[Abstract Factory in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/abstract_factory)
+[Abstract Factory in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/abstract_factory)<br/>
 ### Singleton (단일체)
 하나의 클래스에서는 하나의 객체만 생성함<br/>
-[Singleton](https://github.com/mallycrip/DesignPattern/blob/master/Singleton.md)
-[Singleton in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/Singleton/src)
-[Singleton in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/singleton)
+[Singleton](https://github.com/mallycrip/DesignPattern/blob/master/Singleton.md)<br/>
+[Singleton in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/Singleton/src)<br/>
+[Singleton in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/singleton)<br/>
 ### Builder (빌더)
 ### Prototype (원형)
 ## 구조 패턴
