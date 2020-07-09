@@ -12,10 +12,12 @@
 [Abstract Factory in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/abstract_factory)
 ### Singleton (단일체)
 하나의 클래스에서는 하나의 객체만 생성함
+[Singleton in Python]()
 ### Builder (빌더)
 ### Prototype (원형)
 ## 구조 패턴
 ### Adapter
 서로다른 인터페이스를 단일화 함
+[Adapter in Python]()
 ### Decorator
 객체에 기능을 확장
