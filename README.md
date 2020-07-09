@@ -11,7 +11,7 @@
 [Abstract Factory in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/AbstactFactory/src)<br/>
 [Abstract Factory in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/abstract_factory)
 ### Singleton (단일체)
-하나의 클래스에서는 하나의 객체만 생성함
+하나의 클래스에서는 하나의 객체만 생성함<br/>
 [Singleton in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/singleton)
 ### Builder (빌더)
 ### Prototype (원형)
