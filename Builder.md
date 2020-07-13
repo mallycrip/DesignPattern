@@ -94,12 +94,12 @@ public class User {
 
         public Builder id(String id) {
             this.id = id;
-            return this
+            return this;
         }
 
         public Builder password(String password) {
             this.password = password;
-            return this
+            return this;
         }
 
         public User build() {
