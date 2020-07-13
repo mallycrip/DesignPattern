@@ -23,8 +23,8 @@
 
 ### Prototype (원형)
 원형 인스턴스를 복사하여 생성할 객체의 종류를 명시, 이렇게 만든 견본을 복사해서 새로운 객체를 생성<br/>
-[Prototype](https://github.com/mallycrip/DesignPattern/blob/master/05.%20Prototype.md)
-[Prototype in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/Prototype/src)
+[Prototype](https://github.com/mallycrip/DesignPattern/blob/master/05.%20Prototype.md)<br/>
+[Prototype in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/Prototype/src)<br/>
 
 ## 구조 패턴
 ### Adapter
