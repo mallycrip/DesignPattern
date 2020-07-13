@@ -23,7 +23,7 @@
 
 ## 구조 패턴
 ### Adapter
-서로다른 인터페이스를 단일화 함
+서로다른 인터페이스를 단일화 함<br/>
 [Adapter in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/adapter)
 
 ### Decorator
