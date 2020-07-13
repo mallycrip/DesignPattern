@@ -32,5 +32,26 @@
 [Adapter in Java](https://github.com/mallycrip/DesignPattern/tree/master/Java/Adapter/src)<br/>
 [Adapter in Python](https://github.com/mallycrip/DesignPattern/tree/master/Python/adapter)
 
+### Bridge
+
 ### Decorator
 객체에 기능을 확장하기 위해 사용됨
+
+### Composite
+
+### Facade
+### Flyweight
+### Proxy
+
+## 행동 패턴
+### Chain of Responsibility
+### Command
+### Interpreter
+### Iterator
+### Mediator
+### Memento
+### Observer
+### State
+### Strategy
+### Template Method
+### Visitor
